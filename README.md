@@ -21,9 +21,3 @@ The card features **hover** and **active states**, optimized for both **mobile a
 - Styled entirely with **Tailwind v4**
 
 ---
-
-## 🖼️ Preview
-
-![Social Links Card Screenshot](./preview.jpg)
-
-> Replace with your screenshot path.
